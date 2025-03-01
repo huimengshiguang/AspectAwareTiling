@@ -19,12 +19,6 @@
 2. 搜索 "DreamLightSeamlessFix"
 3. 点击安装按钮
 
-### 手动安装
-```bash
-cd ComfyUI/custom_nodes
-git clone https://github.com/your-repo/DreamLightSeamlessFix.git
-
-
 ## 注意事项
 - 与现有的平铺选项一样，此功能不能 100% 保证无缝平铺，但对于大多数提示词应该可以有效管理接缝问题。
 - 可以使用在线工具如([https://www.pycheung.com/checker/](https://renderstuff.com/tools/360-panorama-web-viewer/)) 来检查图像是否有接缝
@@ -34,3 +28,11 @@ git clone https://github.com/your-repo/DreamLightSeamlessFix.git
 - ![ComfyUI_00043_](https://github.com/user-attachments/assets/a694015b-c0d4-4134-b24c-6cdb8f659f8d)
 - ![ComfyUI_00042_](https://github.com/user-attachments/assets/cd6ee473-138b-401a-8439-c5d7a29fecfa)
 - ![ComfyUI_00041_](https://github.com/user-attachments/assets/45f41b82-afcd-4828-8a4e-01deb2daf7b2)
+
+
+### 手动安装
+```bash
+cd ComfyUI/custom_nodes
+git clone https://github.com/your-repo/DreamLightSeamlessFix.git
+
+
