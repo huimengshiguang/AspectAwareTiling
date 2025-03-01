@@ -26,11 +26,6 @@
 
 ## 安装指南
 
-### 自动安装（推荐）
-1. 打开ComfyUI Manager
-2. 搜索 "DreamLightSeamlessFix"
-3. 点击安装按钮
-   
 ### 手动安装
 ```bash
 cd ComfyUI/custom_nodes
