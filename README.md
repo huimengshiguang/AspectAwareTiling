@@ -12,12 +12,7 @@
 - ⚡ **实时处理**：无需预处理/后处理操作
 - 🧩 **兼容性保障**：完美兼容ControlNet/ImpactPack等主流插件
 
-## 安装指南
 
-### 自动安装（推荐）
-1. 打开ComfyUI Manager
-2. 搜索 "DreamLightSeamlessFix"
-3. 点击安装按钮
 
 ## 注意事项
 - 与现有的平铺选项一样，此功能不能 100% 保证无缝平铺，但对于大多数提示词应该可以有效管理接缝问题。
@@ -29,7 +24,13 @@
 - ![ComfyUI_00042_](https://github.com/user-attachments/assets/cd6ee473-138b-401a-8439-c5d7a29fecfa)
 - ![ComfyUI_00041_](https://github.com/user-attachments/assets/45f41b82-afcd-4828-8a4e-01deb2daf7b2)
 
+## 安装指南
 
+### 自动安装（推荐）
+1. 打开ComfyUI Manager
+2. 搜索 "DreamLightSeamlessFix"
+3. 点击安装按钮
+   
 ### 手动安装
 ```bash
 cd ComfyUI/custom_nodes
