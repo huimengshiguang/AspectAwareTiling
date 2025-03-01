@@ -30,6 +30,6 @@
 ### 手动安装
 ```bash
 cd ComfyUI/custom_nodes
-git clone https://github.com/your-repo/DreamLightSeamlessFix.git
+git clone https://github.com/huimengshiguang/AspectAwareTiling.git
 
 
