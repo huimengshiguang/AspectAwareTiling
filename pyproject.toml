@@ -1,0 +1,14 @@
+[project]
+name = "aspectawaretiling"
+description = "This is an extension script for Stable Diffusion WebUI, modified based on the original functionality. It now supports fixing FLUX panorama seams. It allows users to independently configure seamless image tiling for both the X and Y axes while also being capable of handling FLUX panorama seam issues."
+version = "1.0.0"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/huimengshiguang/AspectAwareTiling"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "AspectAwareTiling"
+Icon = ""
